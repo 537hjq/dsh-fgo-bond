@@ -1,0 +1,14 @@
+pypinyin/phrases_dict.py,sha256=GBKMdvxvpcfBKiEa6mp1YWHlc5PpnLFWyCdO-Dvqnj4,2080844
+pypinyin/utils.py,sha256=FAep1pZJnOnH997EQ50rwCRmFdiUbgTCk1EMxobRzec,127
+pypinyin/runner.py,sha256=OqSgkmJAsGB7q6vxTRwPkGZDjsY64vE7vy8sidQQ50o,3308
+pypinyin/__init__.py,sha256=BfcRUrt9xDt7YK-mJFE66CoOebTQIDHI50J2ZP4bqZc,16040
+pypinyin/pinyin_dict.py,sha256=YCPYXVHgQ52uuwJge9RRUkZntq5ofe5yBQYvuQTEj5g,2120800
+pypinyin/phonetic_symbol.py,sha256=lC1UUgTaDTD93gHQbZJ152guirsZmchNNyhWXsS_CJs,675
+pypinyin/__main__.py,sha256=s94faaBIx5CagkyWxL5oUF2Z3WpPAEvFpnuEWS9ay4A,132
+pypinyin-0.9.5.dist-info/top_level.txt,sha256=ZhqQy4h4p4usUX4MhmbbyO62AVHzdGeNPn63P8CoLYU,9
+pypinyin-0.9.5.dist-info/metadata.json,sha256=pvIRAlHwyHZVQtdu1YJ5tZb7K-wV3jvVhxqY1UexPfU,1234
+pypinyin-0.9.5.dist-info/RECORD,,
+pypinyin-0.9.5.dist-info/WHEEL,sha256=6lxp_S3wZGmTBtGMVmNNLyvKFcp7HqQw2Wn4YYk-Suo,110
+pypinyin-0.9.5.dist-info/DESCRIPTION.rst,sha256=nSOpRb9foHFo-PPL2xdlAmARx2Is_MdhXBkNpTShMFA,5551
+pypinyin-0.9.5.dist-info/METADATA,sha256=YBr5koP6Ysa02RRMe_OTP8OoImVChQ03XuUl5fwiLmU,6570
+pypinyin-0.9.5.dist-info/entry_points.txt,sha256=Ho0nEshcCXV4_Ll4S5jRXKYM8jTlHU5Q4c0d-2MhvZw,53

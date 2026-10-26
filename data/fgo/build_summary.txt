@@ -1,0 +1,9 @@
+servants=483 ces=2707 db=D:\DeepSeek\无目标聊天\fgo\fgo.db
+servants_with_rarity=478 with_class=483
+servants rarity dist: [('', 5), (0, 1), (1, 12), (2, 15), (3, 49), (4, 194), (5, 207)]
+servants class dist: [('Saber', 59), ('Lancer', 56), ('Caster', 54), ('Archer', 52), ('Rider', 51), ('Assassin', 48), ('Berserker', 48), ('Avenger', 22), ('Alterego', 20), ('Ruler', 18), ('Foreigner', 15), ('Pretender', 13), ('MoonCancer', 12), ('Unknown', 4), ('Beast', 2), ('Shielder', 1), ('Grand Caster', 1), ('BeastⅡ', 1), ('BeastⅠ', 1), ('BeastⅢ／R', 1), ('BeastⅢ／L', 1), ('BeastⅣ', 1), ('UnBeast', 1), ('BeastⅦ', 1)]
+ces_with_rarity=2707 with_effect=2707 with_skill_smw=2707
+ces rarity dist: [(1, 10), (2, 10), (3, 250), (4, 2054), (5, 383)]
+ces type dist: [('纪念', 797), ('期间限定', 489), ('情人节', 470), ('牵绊', 470), ('卡池常驻', 186), ('活动奖励', 168), ('EXP卡', 42), ('兑换', 37), ('掉落加成', 27), ('剧情限定', 14), ('未知', 7)]
+servant id range: 1..483, missing: []
+ce id range: 1..2707, count gaps: 0
